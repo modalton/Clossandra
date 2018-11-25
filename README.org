@@ -1,1 +1,5 @@
- 
+* Chapter 1
+** 1.4 Concerns
+*** Usage of class, make-instance. Are we relying on clos for some features until we replace with our own?
+*** defun (setf find-class) is bugging me for obvious reasons. Is there a better way? 
+*** intialize missing lots of slot definitions. If this isn't addressed in later chapters add in 
